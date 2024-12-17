@@ -1,0 +1,23 @@
+{
+	"name": "somnathdb",
+	"version": "1.0.7",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"watch": "jest --watchAll"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	
+	"devDependencies": {
+		"jest": "^26.6.3"
+	},
+	"dependencies": {
+		"lql-parser": "^1.0.0"
+	}
+}
